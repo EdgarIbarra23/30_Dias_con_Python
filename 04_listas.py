@@ -74,3 +74,10 @@ print(lista_mutante, "<---- Insertar mas elementos en una lista y este quede en 
 # Insertar mas elementos en una lista y este quede en cualquier posicion que deseemos
 lista_mutante.insert(3, "Fernando")
 print(lista_mutante, "<---- Insertar mas elementos en una lista y este quede en cualquier posicion que deseemos")
+
+
+
+
+print("")
+print("----------------------------------------------------------------")
+print("Las tuplas son como listas pero constantes, quiere decir que no se pueden agregar, Cambiar, Eliminar elementos, para hacerlo hay que convertirlos en listas y regresarlos a tuplas.")
